@@ -6,4 +6,12 @@ from say the main branch and when this is merged with progress it will
 create a new commit with the combined history of the two branches onto the 
 progress branch. Compare this to rebase which will take the progress 
 branch and place it at the end of main making a new history of commits 
-that combine the commit history of the two in a linear fashion. 
+that combine the commit history of the two in a linear fashion.
+ 
+
+Question: What is a remote repository?
+
+Answer: A remote repository is a central repository usually on something 
+like GitHub where changes committed on one’s local repository are pushed 
+to so others can see such changes allowing for collaboration amongst teams. 
+
