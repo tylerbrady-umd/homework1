@@ -1,4 +1,5 @@
-What is a remote repository?
-A remote repository is a central repository usually on something like 
-GitHub where changes committed on one’s local repository are pushed to so 
-others can see such changes allowing for collaboration amongst teams. 
+Question: What is a remote repository?
+
+Answer: A remote repository is a central repository usually on something 
+like GitHub where changes committed on one’s local repository are pushed 
+to so others can see such changes allowing for collaboration amongst teams. 
